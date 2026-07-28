@@ -19,7 +19,7 @@ The **nipr** project is a modern expense tracking and receipt management applica
 ## Author
 **Name:** Amy James 
 **Email:** amy312james@outlook.com  
-**Website:** 
+**Website:** [nipr](https://www.nipr.com.co)
 
 Bio: A passionate developer with mastery in coding, experienced in building scalable web applications, and known for a helping nature in open-source communities.
 
